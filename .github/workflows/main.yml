@@ -1,0 +1,8 @@
+name: <script>alert(1)</script>
+on:
+  push:
+    branches: ['main']
+    tags-ignore: ['**']
+  pull_request:
+  schedule:
+    - cron: '0 2 * * *'
