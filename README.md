@@ -1,3 +1,4 @@
+[![.github/workflows/ci-linux.yml](https://github.com/abdarhman0x/plant/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/abdarhman0x/plant/actions/workflows/ci-linux.yml)
 # project1
 
 A new Flutter project.
