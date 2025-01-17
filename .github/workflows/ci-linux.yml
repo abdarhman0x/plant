@@ -1,4 +1,4 @@
-name: <script>alert(1)</script>
+name: FUZZ
 on:
   push:
     branches: ['main']
